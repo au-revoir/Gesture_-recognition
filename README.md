@@ -1,2 +1,6 @@
 # Gesture_-recognition
-Recognize predefined hand gestures.
+Recognizes predefined hand gestures.
+
+Requirements:
+  A. Python 2.7.x
+  B  Opencv 2
